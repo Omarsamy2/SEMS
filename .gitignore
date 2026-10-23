@@ -147,3 +147,30 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+
+# ==========================================
+# SEMS - Smart Energy Management System
+# ==========================================
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Local database backups
+*.db-journal
+*.db-backup
+
+# macOS system files
+.DS_Store
+.AppleDouble
+
+# Local editor settings
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
